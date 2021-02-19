@@ -20,7 +20,7 @@ h1{
 
 .container{
   margin: 0 auto;
-  width: 60%;
+  width: 80%;
   display: grid;
   grid-template-columns: repeat(8, 1fr);
   grid-template-rows: repeat(8, 5vw);
